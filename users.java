@@ -1,4 +1,4 @@
-List of users
+List of users:
 Simon
 Percy
 Elvis
